@@ -72,6 +72,9 @@ If you are on OSX El Capitan, use the following (Why? Check Donald Stufft's comm
 
   $ pip install awslogs --ignore-installed six
 
+You can also install it with `brew <https://brew.sh/>`_::
+
+  $ brew install awslogs
 
 
 Options
